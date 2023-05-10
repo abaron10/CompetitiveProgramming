@@ -18,7 +18,7 @@ uint32_t reverseBits(uint32_t n)
 int main()
 {
 
-    uint32_t s = 0b00000010100101000001111010011100;
+    uint s = 1001;
 
     std::cout << std::bitset<32>(reverseBits(s)) << std::endl;
 
