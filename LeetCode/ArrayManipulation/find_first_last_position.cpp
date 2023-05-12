@@ -46,8 +46,7 @@ vector<int> searchRange(vector<int> &nums, int target)
 int main()
 {
 
-    std::vector<int> nums = {5, 7, 7, 8, 8, 10};
-    int target = 8;
+    string s = "hol" + 'a';
+    cout << s; 
 
-    cout << (vector<int>{3,4} == searchRange(nums, target));
 }
