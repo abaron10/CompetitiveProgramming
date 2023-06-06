@@ -23,7 +23,7 @@ int singleNumber(vector<int> nums)
 int main()
 {
 
-    cout << singleNumber({2,1, 2});
+    cout << singleNumber({2,1});
     
     return 0;
 }

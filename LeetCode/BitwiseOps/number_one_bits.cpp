@@ -14,6 +14,6 @@ int hammingWeight(uint32_t n)
 int main()
 {   
     uint32_t n = 0b1101;
-    
+
     std::cout<< hammingWeight(n);
 }
